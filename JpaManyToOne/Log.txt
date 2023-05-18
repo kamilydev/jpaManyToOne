@@ -1,0 +1,99 @@
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 15, 2023 3:15:55 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory jpaMapeamento_n_1 foi criada!!
+mai. 17, 2023 10:09:35 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:09:35 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:09:35 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:09:47 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:09:47 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:09:47 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:12:10 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:12:10 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:12:10 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:12:13 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 10:23:44 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:23:44 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:23:44 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:23:46 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 10:32:11 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:32:11 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:32:11 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:32:13 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 10:44:54 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:44:55 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:44:55 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:44:57 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 10:45:09 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 10:45:09 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 10:45:09 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 10:45:11 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 11:02:41 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 11:02:41 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 11:02:41 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 11:02:43 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 11:14:57 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 11:14:57 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 11:14:57 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 11:14:59 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 17, 2023 11:18:29 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 17, 2023 11:18:29 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2023 11:18:29 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 17, 2023 11:18:31 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory ManyToOne foi criada!!
